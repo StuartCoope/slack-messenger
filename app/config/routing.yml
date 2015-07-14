@@ -1,0 +1,3 @@
+stu_io_slack_messenger:
+    resource: "@StuIoSlackMessengerBundle/Resources/config/routing.yml"
+    prefix:   /

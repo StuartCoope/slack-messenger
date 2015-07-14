@@ -1,0 +1,4 @@
+services:
+#    stu_io_slack_messenger.example:
+#        class: StuIo\SlackMessengerBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
